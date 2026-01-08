@@ -23,4 +23,6 @@ Use this model for inference. It contains the highest-performing weights trained
 4) Launch the frontend/ folder
 This runs the user-facing interface for uploading drone images or video frames and visualizing detections with bounding boxes and class labels.
 
+## Contributor Notes
+- Improved documentation clarity and structure.
 
